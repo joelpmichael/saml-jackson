@@ -1,0 +1,5 @@
+*.png
+_autosave*
+*-bak
+*-backups/*
+fp-info-cache
